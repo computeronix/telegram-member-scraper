@@ -16,7 +16,8 @@ For this you are going to ned an `api_id` and `api_hash` and your phone number.
 Paste these values in the appropriate fields in `member_go.py`.
 
 To install Telethon you can do:
-`python pip install telethon `
+`apt-get install python3 python3-pip wget unzip`
+`python3 -m pip install telethon `
 
 
 ## Execution:
